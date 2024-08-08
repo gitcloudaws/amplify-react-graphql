@@ -28,6 +28,14 @@ function App() {
         >
           Learn AWS
         </a>
+        <a
+          className="App-link"
+          href="https://learn.microsoft.com/en-us/training/azure/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn Azure
+        </a>
       </header>
     </div>
   );
