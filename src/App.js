@@ -36,6 +36,14 @@ function App() {
         >
           Learn Azure
         </a>
+        <a
+          className="App-link"
+          href="https://github.com/"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Learn Github Copilot
+        </a>
       </header>
     </div>
   );
